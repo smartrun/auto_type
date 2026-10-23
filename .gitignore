@@ -1,0 +1,21 @@
+# Python 가상환경
+.venv/
+venv/
+ENV/
+
+# 바이트코드 및 캐시
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# 빌드 및 배포
+build/
+dist/
+*.spec
+
+# IDE 및 OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

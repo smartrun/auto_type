@@ -1,0 +1,1 @@
+"""Core typing logic"""
